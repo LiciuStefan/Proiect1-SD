@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647255257 source:c:\users\liciu\desktop\proiect1sd\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<queue>
+	<cmath>
+	<bits/stdc++.h>
+	<ctime>
+
